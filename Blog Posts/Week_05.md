@@ -1,0 +1,1 @@
+This week, I worked mostly on the main project, in an attempt to get enough going to actually have a minimum viable product for this class. I don't think we'll be able to do that, though, so I'm uncertain what we'll end up presenting. I need to discuss with the other members of the project what we'll end up presenting.
